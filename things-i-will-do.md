@@ -9,6 +9,9 @@
 - [ ] Skydive onto a beach
 - [ ] Maintain a high level of fitness
 - [ ] Run a half marathon
+- [ ] Design & sell a Tee Shirt
+- [ ] Win a Webby Award
+
 
 ## Need Skills
 
