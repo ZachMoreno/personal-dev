@@ -9,7 +9,7 @@
 - [ ] Maintain a high level of fitness
 
 
-## Need Skills For
+## Need Skills
 
 - [ ] Visit Space
 - [ ] Start a foundation or non-profit
@@ -20,7 +20,7 @@
 - [ ] Give a presentation & get paid for it
 
 
-## Things I Need Time For
+## Need Time
 
 - [ ] Build a treehouse
 - [ ] Meet astronaught Chris Hadfield
