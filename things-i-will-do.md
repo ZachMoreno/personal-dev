@@ -44,3 +44,5 @@
 - [ ] Watch a rocket launch in person
 - [ ] Meet Barack Obama
 - [ ] Own a first edition book
+- [ ] Marry Rebecca Mosbarger
+- [ ] Build a treehouse
