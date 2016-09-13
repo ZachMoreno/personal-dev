@@ -7,7 +7,7 @@
 - [ ] Marry Rebecca Mosbarger
 - [ ] Skydive onto a beach
 - [ ] Maintain a high level of fitness
-
+- [ ] Run a half marathon
 
 ## Need Skills
 
@@ -22,21 +22,22 @@
 
 ## Need Time
 
-- [ ] Build a treehouse
+- [ ] Publish a podcast
+- [ ] Publish a fiction novel
+- [ ] Publish a viral video on YouTube
 - [ ] Meet astronaught Chris Hadfield
 - [ ] Meet astronaught Scott Kelly
-- [ ] Watch a rocket launch in person
 - [ ] Meet Barack Obama
-- [ ] Publish a fiction novel
-- [ ] Publish a podcast
+- [ ] Meet Bill Nye
+- [ ] Meet Neil deGrasse Tyson
+- [ ] Watch a rocket launch in person
 - [ ] Attend the Olympics
 - [ ] Have a library in my home
+- [ ] Build a treehouse
 - [ ] Charter a private jet
-- [ ] Visit Apple's HQ
-- [ ] Visit Microsoft's HQ
-- [ ] Publish a viral video on YouTube
+- [ ] Tour Apple's HQ
+- [ ] Tour Microsoft's HQ
 - [ ] Own a Tesla
-- [ ] Run a half marathon
 - [ ] Currate an art collection
 - [ ] Hire an assistant
 
@@ -52,7 +53,7 @@
   - [2016](https://events.google.com/io2016/)
 - [X] Backpack for multiple days
   - [Lassen National Park 2016](https://goo.gl/photos/GDx3kFDZ91A3an7a9)
-- [X] Visit Google's HQ
+- [X] Tour Google's HQ
 - [X] Build a large balanced rock sculpture
   - [Stump Beach 2016](https://goo.gl/photos/MW162iSPXwN3tD4K8)
 - [X] Win a pitchathon
