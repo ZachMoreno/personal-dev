@@ -32,3 +32,15 @@
 - [X] Backpack for multiple days
   - [Lassen National Park 2016](https://goo.gl/photos/GDx3kFDZ91A3an7a9)
 - [X] Fire a Barrett 50 caliber sniper rifle
+- [ ] Hire an assistant
+- [ ] Currate an art collection
+- [ ] Charter a private jet
+- [ ] Attend the Olympics
+- [ ] Start a foundation or non-profit
+- [ ] Have a library in my home
+- [ ] Give a presentation & get paid for it
+- [ ] Meet astronaught Chris Hadfield
+- [ ] Meet astronaught Scott Kelly
+- [ ] Watch a rocket launch in person
+- [ ] Meet Barack Obama
+- [ ] Own a first edition book
