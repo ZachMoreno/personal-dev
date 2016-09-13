@@ -3,6 +3,7 @@
 
 ## Can Do Right Now
 
+- [ ] Publish a podcast
 - [ ] Own a first edition book
 - [ ] Marry Rebecca Mosbarger
 - [ ] Skydive onto a beach
@@ -22,7 +23,6 @@
 
 ## Need Time
 
-- [ ] Publish a podcast
 - [ ] Publish a fiction novel
 - [ ] Publish a viral video on YouTube
 - [ ] Meet astronaught Chris Hadfield
