@@ -1,0 +1,34 @@
+# Things I Will Do
+
+- [ ] Publish a fiction novel
+- [ ] Publish a podcast
+- [X] Publish a technical book
+  - [AngularJS Deployment Essentials](https://www.packtpub.com/web-development/angularjs-deployment-essentials)
+- [X] Build & publish a mobile app
+  - [My Rainbow Pages](https://play.google.com/store/apps/details?id=com.ionicframework.rainbowpages177570&hl=en)
+- [ ] Publish a viral video on YouTube
+- [X] Attend Google I/O
+  - [2016](https://events.google.com/io2016/)
+- [ ] Present @ Google I/O
+- [ ] Own a Tesla
+- [ ] Skydive onto a beach
+- [ ] Visit Apple's HQ
+- [X] Visit Google's HQ
+- [ ] Visit Microsoft's HQ
+- [ ] Visit Space
+- [X] Win a pitchathon
+  - 2011 @ [Cog1](http://cog1.com/)
+- [ ] Fly an airplane
+- [ ] Roast coffee
+- [ ] Run a half marathon
+- [ ] Maintain a high level of fitness
+- [X] Build a large balanced rock sculpture
+  - [Stump Beach 2016](https://goo.gl/photos/MW162iSPXwN3tD4K8)
+- [X] Sell one of my paintings
+  - sold multiple in high school
+- [X] Win awards for my paintings
+  - awarded multiple in high school
+- [ ] Climb a redwood tree
+- [X] Backpack for multiple days
+  - [Lassen National Park 2016](https://goo.gl/photos/GDx3kFDZ91A3an7a9)
+- [X] Fire a Barrett 50 caliber sniper rifle
