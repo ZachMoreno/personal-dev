@@ -66,3 +66,4 @@
 - [X] Win awards for my paintings
   - awarded multiple in high school
 - [X] Fire a Barrett 50 caliber sniper rifle
+- [X] Tour a Nasa center
