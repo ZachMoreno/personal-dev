@@ -48,22 +48,24 @@
 
 ## Done
 
+- [X] Backpack for multiple days
+  - [Lassen National Park 2016](https://goo.gl/photos/GDx3kFDZ91A3an7a9)
+- [X] Attend Google I/O
+  - [2016](https://events.google.com/io2016/)
+- [X] Build a large balanced rock sculpture
+  - [2016 @ Stump Beach](https://goo.gl/photos/MW162iSPXwN3tD4K8)
 - [X] Publish a technical book
   - [AngularJS Deployment Essentials](https://www.packtpub.com/web-development/angularjs-deployment-essentials)
 - [X] Build & publish a mobile app
   - [My Rainbow Pages](https://play.google.com/store/apps/details?id=com.ionicframework.rainbowpages177570&hl=en)
-- [X] Attend Google I/O
-  - [2016](https://events.google.com/io2016/)
-- [X] Backpack for multiple days
-  - [Lassen National Park 2016](https://goo.gl/photos/GDx3kFDZ91A3an7a9)
+- [X] Tour a Nasa center
+  - [2014 @ NASA Ames Research Center](https://goo.gl/photos/FJdj2Giny4JUTemY9)
 - [X] Tour Google's HQ
-- [X] Build a large balanced rock sculpture
-  - [Stump Beach 2016](https://goo.gl/photos/MW162iSPXwN3tD4K8)
+  - [2012 @ Google Summer of Code](https://goo.gl/photos/r39H8Cd8ahiVkHAs9)
 - [X] Win a pitchathon
-  - 2011 @ [Cog1](http://cog1.com/)
+  - [2011 @ Cog1](http://cog1.com/)
 - [X] Sell one of my paintings
   - sold multiple in high school
 - [X] Win awards for my paintings
   - awarded multiple in high school
 - [X] Fire a Barrett 50 caliber sniper rifle
-- [X] Tour a Nasa center
