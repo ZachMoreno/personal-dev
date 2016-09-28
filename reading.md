@@ -6,7 +6,7 @@
 - [ ] What to Think about Machines that Think
 - [ ] The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World
 - [ ] The Meaning of Human Existence
-- [ ] Why Start People Hurt
+- [ ] Why Smart People Hurt
 - [ ] Endgame: The Complete Zero Line Chronicles
 - [ ] Alif the Unseen
 - [ ] A Guide for the Perplexed: A Novel
