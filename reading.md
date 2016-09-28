@@ -25,7 +25,7 @@
 
 ## Read
 
-### 2016 <sub>17</sub>
+### 2016 <sub>(17)</sub>
 
 - [x] Data Structures and Algorithms in JavaScript
 - [x] The Dharma of Star Wars
@@ -45,7 +45,7 @@
 - [x] Soul of An Octopus
 - [x] Starlight Detectives: How Astronomers, Inventors, and Eccentrics Discovered the Modern Universe
 
-### 2015 <sub>14</sub>
+### 2015 <sub>(14)</sub>
 
 - [x] Elon Musk
 - [x] The Fold
@@ -62,7 +62,7 @@
 - [x] The Four Hour Workweek
 - [x] Defining Creativity
 
-### 2014 <sub>5</sub>
+### 2014 <sub>(5)</sub>
 
 - [x] Endgame: The Calling
 - [x] Main Street Vegan
