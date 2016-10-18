@@ -3,13 +3,14 @@
 
 ## Can Do Right Now
 
-- [ ] Publish a podcast
-- [ ] Own a first edition book
 - [ ] Marry Rebecca Mosbarger
-- [ ] Skydive onto a beach
 - [ ] Maintain a high level of fitness
 - [ ] Run a half marathon
 - [ ] Design & sell a Tee Shirt
+- [ ] Acheive full test coverage on an app
+- [ ] Publish a podcast
+- [ ] Own a first edition book
+- [ ] Skydive onto a beach
 - [ ] Win a Webby Award
 
 
