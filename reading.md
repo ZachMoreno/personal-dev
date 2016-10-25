@@ -2,9 +2,10 @@
 
 ## Now
 
-- [ ] Hyperion
+- [ ] Platform Revolution
 - [ ] What to Think about Machines that Think
 - [ ] The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World
+- [ ] Hyperion
 - [ ] The Meaning of Human Existence
 - [ ] Why Smart People Hurt
 - [ ] Endgame: The Complete Zero Line Chronicles
