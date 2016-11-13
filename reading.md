@@ -2,15 +2,11 @@
 
 ## Now
 
-- [ ] Platform Revolution
+- [ ] Nudge
 - [ ] What to Think about Machines that Think
-- [ ] The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World
-- [ ] Hyperion
 - [ ] The Meaning of Human Existence
 - [ ] Why Smart People Hurt
 - [ ] Endgame: The Complete Zero Line Chronicles
-- [ ] Alif the Unseen
-- [ ] A Guide for the Perplexed: A Novel
 - [ ] The Cat's Craddle
 - [ ] Chi Running
 
@@ -22,12 +18,13 @@
 - [ ] Jurrasic Park
 - [ ] Spark: The Revolutionary New Science of Exercise and the Brain
 - [ ] Drive
-- [ ] Nudge
 
 ## Read
 
-### 2016 <sub>(17)</sub>
+### 2016 <sub>(19)</sub>
 
+- [X] The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World
+- [X] Platform Revolution
 - [x] Data Structures and Algorithms in JavaScript
 - [x] The Dharma of Star Wars
 - [x] Essentialism
