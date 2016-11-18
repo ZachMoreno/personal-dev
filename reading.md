@@ -2,6 +2,7 @@
 
 ## Now
 
+- [ ] The Hard Thing About Hard Things
 - [ ] Nudge
 - [ ] What to Think about Machines that Think
 - [ ] The Meaning of Human Existence
