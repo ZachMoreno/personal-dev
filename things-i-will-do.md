@@ -4,6 +4,7 @@
 ## Can Do Right Now
 
 - [ ] Marry Rebecca Mosbarger
+- [ ] Start a startup
 - [ ] Maintain a high level of fitness
 - [ ] Run a half marathon
 - [ ] Design & sell a Tee Shirt
