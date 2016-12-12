@@ -2,9 +2,8 @@
 
 ## Now
 
-- [ ] The Hard Thing About Hard Things
-- [ ] Nudge
 - [ ] What to Think about Machines that Think
+- [ ] Nudge
 - [ ] The Meaning of Human Existence
 - [ ] Why Smart People Hurt
 - [ ] Endgame: The Complete Zero Line Chronicles
@@ -22,8 +21,9 @@
 
 ## Read
 
-### 2016 <sub>(19)</sub>
+### 2016 <sub>(20)</sub>
 
+- [X] The Hard Thing About Hard Things
 - [X] The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World
 - [X] Platform Revolution
 - [x] Data Structures and Algorithms in JavaScript
