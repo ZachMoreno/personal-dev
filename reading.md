@@ -2,6 +2,7 @@
 
 ## Now
 
+- [ ] The Creator's Code
 - [ ] What to Think about Machines that Think
 - [ ] Nudge
 - [ ] The Meaning of Human Existence
