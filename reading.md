@@ -2,7 +2,6 @@
 
 ## Now
 
-- [ ] The Creator's Code
 - [ ] What to Think about Machines that Think
 - [ ] Nudge
 - [ ] The Meaning of Human Existence
@@ -24,6 +23,7 @@
 
 ### 2016 <sub>(20)</sub>
 
+- [X] The Creator's Code
 - [X] The Hard Thing About Hard Things
 - [X] The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World
 - [X] Platform Revolution
