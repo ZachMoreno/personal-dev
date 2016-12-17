@@ -2,6 +2,7 @@
 
 ## Now
 
+- [ ] Fascinate: How to Make Your Brand Impossible to Resist
 - [ ] What to Think about Machines that Think
 - [ ] Nudge
 - [ ] The Meaning of Human Existence
@@ -21,9 +22,9 @@
 
 ## Read
 
-### 2016 <sub>(20)</sub>
+### 2016 <sub>(21)</sub>
 
-- [X] The Creator's Code
+- [X] The Creator's Code: The Six Essential Skills of Extraordinary Entrepreneurs
 - [X] The Hard Thing About Hard Things
 - [X] The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World
 - [X] Platform Revolution
