@@ -2,6 +2,7 @@
 
 ## Now
 
+- [ ] Tools of Titans: The Tactics, Toutines, and Habits of Billionaires, Icons, and World-Class Performers
 - [ ] Fascinate: How to Make Your Brand Impossible to Resist
 - [ ] What to Think about Machines that Think
 - [ ] Nudge
