@@ -3,7 +3,6 @@
 ## Now
 
 - [ ] Tools of Titans: The Tactics, Toutines, and Habits of Billionaires, Icons, and World-Class Performers
-- [ ] Fascinate: How to Make Your Brand Impossible to Resist
 - [ ] What to Think about Machines that Think
 - [ ] Nudge
 - [ ] The Meaning of Human Existence
@@ -23,8 +22,9 @@
 
 ## Read
 
-### 2016 <sub>(21)</sub>
+### 2016 <sub>(22)</sub>
 
+- [x] Fascinate: How to Make Your Brand Impossible to Resist
 - [X] The Creator's Code: The Six Essential Skills of Extraordinary Entrepreneurs
 - [X] The Hard Thing About Hard Things
 - [X] The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World
