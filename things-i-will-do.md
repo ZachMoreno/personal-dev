@@ -3,13 +3,13 @@
 
 ## Can Do Right Now
 
-- [ ] Marry Rebecca Mosbarger
 - [ ] Start a startup
-- [ ] Maintain a high level of fitness
-- [ ] Run a half marathon
 - [ ] Design & sell a Tee Shirt
 - [ ] Acheive full test coverage on an app
 - [ ] Publish a podcast
+- [ ] Watch a rocket launch in person
+- [ ] Maintain a high level of fitness
+- [ ] Run a half marathon
 - [ ] Own a first edition book
 - [ ] Skydive onto a beach
 - [ ] Win a Webby Award
@@ -35,7 +35,6 @@
 - [ ] Meet Barack Obama
 - [ ] Meet Bill Nye
 - [ ] Meet Neil deGrasse Tyson
-- [ ] Watch a rocket launch in person
 - [ ] Attend the Olympics
 - [ ] Have a library in my home
 - [ ] Build a treehouse
@@ -50,6 +49,8 @@
 
 ## Done
 
+- [x] Marry Rebecca Mosbarger
+  - January 14, 2016
 - [X] Backpack for multiple days
   - [Lassen National Park 2016](https://goo.gl/photos/GDx3kFDZ91A3an7a9)
 - [X] Attend Google I/O
