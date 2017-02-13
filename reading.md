@@ -1,7 +1,8 @@
 # Reading
 
-## Now
+## In Progress
 
+- [ ] Code of the Extraordinary Mind
 - [ ] Tools of Titans: The Tactics, Toutines, and Habits of Billionaires, Icons, and World-Class Performers
 - [ ] What to Think about Machines that Think
 - [ ] Nudge
@@ -21,6 +22,10 @@
 - [ ] Drive
 
 ## Read
+
+### 2017 <sub>(1)</sub>
+
+ - [x] The Lean Startup
 
 ### 2016 <sub>(22)</sub>
 
