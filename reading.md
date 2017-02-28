@@ -3,7 +3,7 @@
 ## In Progress
 
 - [ ] Code of the Extraordinary Mind
-- [ ] Tools of Titans: The Tactics, Toutines, and Habits of Billionaires, Icons, and World-Class Performers
+- [ ] Welcome to the Universe: An Astrophysical Tour
 - [ ] What to Think about Machines that Think
 - [ ] Nudge
 - [ ] The Meaning of Human Existence
@@ -15,6 +15,9 @@
 
 ## Will Read
 
+- [ ] How Output Management
+- [ ] The Effective Executive: The Definitive Guide to Getting the Right Things Done
+- [ ] Poor Charlie's Almanack
 - [ ] The New Digital Age
 - [ ] How Google Works
 - [ ] Jurrasic Park
@@ -26,6 +29,7 @@
 ### 2017 <sub>(1)</sub>
 
  - [x] The Lean Startup
+ - [X] Tools of Titans: The Tactics, Toutines, and Habits of Billionaires, Icons, and World-Class Performers
 
 ### 2016 <sub>(22)</sub>
 
@@ -65,7 +69,7 @@
 - [x] Thrive: Fitness
 - [x] Airframe
 - [x] Social
-- [x] Information Doesn't Want to be Free
+- [x] Information Doesn't Want to be Free: Laws for the Internet Age
 - [x] The Four Hour Workweek
 - [x] Defining Creativity
 
