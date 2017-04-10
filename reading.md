@@ -24,7 +24,7 @@
 
 ## Read
 
-### 2017 <sub>(1)</sub>
+### 2017 <sub>(6)</sub>
 
  - [x] Web Audio API
  - [x] What to Think about Machines that Think
