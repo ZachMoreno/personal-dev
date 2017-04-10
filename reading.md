@@ -2,20 +2,18 @@
 
 ## In Progress
 
+- [ ] Red Mars
+- [ ] Start with Why: How Great Leaders Inspire Everyone to Take Action
 - [ ] Code of the Extraordinary Mind
 - [ ] Welcome to the Universe: An Astrophysical Tour
-- [ ] What to Think about Machines that Think
 - [ ] Nudge
 - [ ] The Meaning of Human Existence
 - [ ] Why Smart People Hurt
-- [ ] Endgame: The Complete Zero Line Chronicles
-- [ ] The Cat's Craddle
 - [ ] Chi Running
-
 
 ## Will Read
 
-- [ ] How Output Management
+- [ ] High Output Management
 - [ ] The Effective Executive: The Definitive Guide to Getting the Right Things Done
 - [ ] Poor Charlie's Almanack
 - [ ] The New Digital Age
@@ -28,7 +26,11 @@
 
 ### 2017 <sub>(1)</sub>
 
+ - [x] Web Audio API
+ - [x] What to Think about Machines that Think
  - [x] The Lean Startup
+ - [x] The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
+ - [x] Endgame: The Complete Zero Line Chronicles
  - [X] Tools of Titans: The Tactics, Toutines, and Habits of Billionaires, Icons, and World-Class Performers
 
 ### 2016 <sub>(22)</sub>
