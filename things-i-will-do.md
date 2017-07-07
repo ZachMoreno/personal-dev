@@ -49,7 +49,7 @@
 ## Done
 
 - [X] Start a startup
-  - SquadCast Inc
+  - [SquadCast Inc](https://squadcast.fm)
 - [x] Marry Rebecca Mosbarger
   - January 14, 2016
 - [X] Backpack for multiple days
