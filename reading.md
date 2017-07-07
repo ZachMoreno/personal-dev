@@ -2,6 +2,8 @@
 
 ## In Progress
 
+- [ ] Out on the Wire: The Storytelling Secretes of the New Masters of Radio
+- [ ] The Lost Art of Listening
 - [ ] Red Mars
 - [ ] Start with Why: How Great Leaders Inspire Everyone to Take Action
 - [ ] Code of the Extraordinary Mind
@@ -11,21 +13,11 @@
 - [ ] Why Smart People Hurt
 - [ ] Chi Running
 
-## Will Read
-
-- [ ] High Output Management
-- [ ] The Effective Executive: The Definitive Guide to Getting the Right Things Done
-- [ ] Poor Charlie's Almanack
-- [ ] The New Digital Age
-- [ ] How Google Works
-- [ ] Jurrasic Park
-- [ ] Spark: The Revolutionary New Science of Exercise and the Brain
-- [ ] Drive
-
 ## Read
 
-### 2017 <sub>(6)</sub>
+### 2017 <sub>(7)</sub>
 
+ - [X] Mastering Kubernetes
  - [x] Web Audio API
  - [x] What to Think about Machines that Think
  - [x] The Lean Startup
