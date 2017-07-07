@@ -3,7 +3,6 @@
 
 ## Can Do Right Now
 
-- [ ] Start a startup
 - [ ] Design & sell a Tee Shirt
 - [ ] Acheive full test coverage on an app
 - [ ] Publish a podcast
@@ -49,6 +48,8 @@
 
 ## Done
 
+- [X] Start a startup
+  - SquadCast Inc
 - [x] Marry Rebecca Mosbarger
   - January 14, 2016
 - [X] Backpack for multiple days
