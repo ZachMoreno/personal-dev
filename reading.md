@@ -15,10 +15,11 @@
 
 ## Read
 
-### 2017 <sub>(7)</sub>
+### 2017 <sub>(8)</sub>
 
  - [X] Mastering Kubernetes
- - [x] Web Audio API
+ - [X] Web Audio API
+ - [X] Endgame: Rules of the Game
  - [x] What to Think about Machines that Think
  - [x] The Lean Startup
  - [x] The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
