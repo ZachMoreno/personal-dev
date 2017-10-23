@@ -2,21 +2,26 @@
 
 ## In Progress
 
-- [ ] Out on the Wire: The Storytelling Secretes of the New Masters of Radio
-- [ ] The Lost Art of Listening
-- [ ] Red Mars
-- [ ] Start with Why: How Great Leaders Inspire Everyone to Take Action
-- [ ] Code of the Extraordinary Mind
-- [ ] Welcome to the Universe: An Astrophysical Tour
-- [ ] Nudge
-- [ ] The Meaning of Human Existence
-- [ ] Why Smart People Hurt
-- [ ] Chi Running
+ - [ ] Principles
+ - [ ] Hit Refresh
+ - [ ] Red Mars
+ - [ ] Welcome to the Universe: An Astrophysical Tour 
+ - [ ] Nudge
+ - [ ] The Meaning of Human Existence
+ - [ ] Why Smart People Hurt
+ - [ ] Chi Running
 
 ## Read
 
-### 2017 <sub>(8)</sub>
+### 2017 <sub>(15)</sub>
 
+ - [X] Start with Why: How Great Leaders Inspire Everyone to Take Action
+ - [X] Code of the Extraordinary Mind
+ - [X] Hooked: How to Build Habit-Forming Products
+ - [X] The Launch Pad: Inside Y Combinator, Silicon Valley's Most Exclusive School for Startups
+ - [X] The Art of Communicating
+ - [X] Out on the Wire: The Storytelling Secretes of the New Masters of Radio
+ - [X] The Lost Art of Listening
  - [X] Mastering Kubernetes
  - [X] Web Audio API
  - [X] Endgame: Rules of the Game
