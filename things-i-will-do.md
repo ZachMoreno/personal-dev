@@ -22,7 +22,8 @@
 - [ ] Present @ Google I/O
 - [ ] Fly an airplane
 - [ ] Roast coffee
-- [ ] Give a presentation & get paid for it
+- [ ] Get paid to speak
+- [ ] Play the cello
 
 
 ## Need Time
