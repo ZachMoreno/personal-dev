@@ -9,7 +9,7 @@
  - [ ] Red Mars
  - [X] Purple Cow
 
-### 2017 <sub>(21)</sub>
+### 2017 <sub>(20)</sub>
 
  - [X] Principles
  - [X] Tribe of Mentors
