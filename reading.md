@@ -5,12 +5,12 @@
  - [ ] How to Build a Billion Dollar App
  - [ ] Never Split the Difference
  - [ ] The Master Key System
+ - [ ] Hit Refresh
+ - [ ] Red Mars
  - [X] Purple Cow
 
 ### 2017 <sub>(21)</sub>
 
- - [ ] Hit Refresh
- - [ ] Red Mars
  - [X] Principles
  - [X] Tribe of Mentors
  - [X] The 22 Immutable Laws of Marketing
