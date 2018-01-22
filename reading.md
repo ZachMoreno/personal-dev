@@ -1,36 +1,36 @@
 # Reading
 
-## In Progress
+### 2018 <sub>(1)</sub>
+ 
+ - [ ] How to Build a Billion Dollar App
+ - [ ] Never Split the Difference
+ - [ ] The Master Key System
+ - [X] Purple Cow
 
- - [ ] Principles
+### 2017 <sub>(21)</sub>
+
  - [ ] Hit Refresh
  - [ ] Red Mars
- - [ ] Welcome to the Universe: An Astrophysical Tour 
- - [ ] Nudge
- - [ ] The Meaning of Human Existence
- - [ ] Why Smart People Hurt
- - [ ] Chi Running
-
-## Read
-
-### 2017 <sub>(16)</sub>
-
- - [X] Building a Story Brand: Clarifying Your Message so Customers Will Listen
- - [X] Start with Why: How Great Leaders Inspire Everyone to Take Action
+ - [X] Principles
+ - [X] Tribe of Mentors
+ - [X] The 22 Immutable Laws of Marketing
+ - [X] Discipline Equals Freedom
+ - [X] Building a Story Brand
+ - [X] Start with Why
  - [X] Code of the Extraordinary Mind
- - [X] Hooked: How to Build Habit-Forming Products
- - [X] The Launch Pad: Inside Y Combinator, Silicon Valley's Most Exclusive School for Startups
+ - [X] Hooked
+ - [X] The Launch Pad: Inside Y Combinator
  - [X] The Art of Communicating
- - [X] Out on the Wire: The Storytelling Secretes of the New Masters of Radio
+ - [X] Out on the Wire
  - [X] The Lost Art of Listening
  - [X] Mastering Kubernetes
  - [X] Web Audio API
  - [X] Endgame: Rules of the Game
  - [x] What to Think about Machines that Think
  - [x] The Lean Startup
- - [x] The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
+ - [x] The Life-Changing Magic of Tidying Up
  - [x] Endgame: The Complete Zero Line Chronicles
- - [X] Tools of Titans: The Tactics, Toutines, and Habits of Billionaires, Icons, and World-Class Performers
+ - [X] Tools of Titans
 
 ### 2016 <sub>(22)</sub>
 
