@@ -4,6 +4,7 @@
  
  - [ ] Venture Deals
  - [ ] Contagious
+ - [ ] Daring Greatly
  - [ ] Never Split the Difference
  - [ ] The Master Key System
  - [ ] Hit Refresh
