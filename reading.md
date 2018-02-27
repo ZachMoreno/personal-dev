@@ -1,13 +1,15 @@
 # Reading
 
-### 2018 <sub>(1)</sub>
+### 2018 <sub>(2)</sub>
  
- - [ ] How to Build a Billion Dollar App
+ - [ ] Venture Deals
+ - [ ] Contagious
  - [ ] Never Split the Difference
  - [ ] The Master Key System
  - [ ] Hit Refresh
  - [ ] Red Mars
  - [X] Purple Cow
+ - [X] How to Build a Billion Dollar App
 
 ### 2017 <sub>(20)</sub>
 
