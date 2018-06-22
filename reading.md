@@ -1,14 +1,18 @@
 # Reading
 
-### 2018 <sub>(2)</sub>
+### 2018 <sub>(6)</sub>
  
- - [ ] Venture Deals
+ - [ ] Own the Day, Own Your Life
+ - [ ] Crushing It!
  - [ ] Contagious
- - [ ] Daring Greatly
  - [ ] Never Split the Difference
  - [ ] The Master Key System
- - [ ] Hit Refresh
  - [ ] Red Mars
+ - [ ] Artemis
+ - [X] Ready Player One
+ - [X] Daring Greatly
+ - [X] Hit Refresh
+ - [X] Venture Deals
  - [X] Purple Cow
  - [X] How to Build a Billion Dollar App
 
@@ -117,3 +121,4 @@
 - [x] Harry Potter and the Prisoner of Azkaban
 - [x] Harry Potter and the Chamber of Secrets
 - [x] Harry Potter and the Sorcerers Stone
+- [x] Jonathan Livingston Seagull
