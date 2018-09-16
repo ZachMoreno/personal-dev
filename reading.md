@@ -2,7 +2,6 @@
 
 ### 2018 <sub>(7)</sub>
  
- - [ ] Exactly What to Say
  - [ ] Creative Quest
  - [ ] Own the Day, Own Your Life
  - [ ] Crushing It!
@@ -11,6 +10,7 @@
  - [ ] The Master Key System
  - [ ] Red Mars
  - [ ] Artemis
+ - [X] Exactly What to Say
  - [X] Positioning
  - [X] Ready Player One
  - [X] Daring Greatly
